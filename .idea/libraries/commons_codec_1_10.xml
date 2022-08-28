@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="commons-codec-1.10">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../moran/Automation/files/driverManeger/commons-codec-1.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../moran/Automation/files/driverManeger/commons-compress-1.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../moran/Automation/files/driverManeger/commons-io-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../moran/Automation/files/driverManeger/commons-lang3-3.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../moran/Automation/files/driverManeger/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../moran/Automation/files/driverManeger/gson-2.8.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../moran/Automation/files/driverManeger/httpclient-4.5.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../moran/Automation/files/driverManeger/httpcore-4.4.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../moran/Automation/files/driverManeger/jarchivelib-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../moran/Automation/files/driverManeger/jsoup-1.11.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../moran/Automation/files/driverManeger/slf4j-api-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../moran/Automation/files/driverManeger/webdrivermanager-3.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
